@@ -10,7 +10,7 @@ This project aims to create a robust database system for an e-learning platform,
 # Date
 February 10, 2024 - May 13, 2024
 
-# Overview
+# Objective
 The project’s objective is creating a database system for an e-learning platform (which doesn’t crash). The online learning platform will facilitate learning for the students and course management for the instructors by utilizing various online tools. The database will serve as the foundation of the platform, ensuring fast and efficient data management.
 
 # How to use our project
