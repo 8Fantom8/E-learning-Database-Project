@@ -1,0 +1,1851 @@
+UserID,CourseID,InstructorRole
+2,1,Teaching Assistant
+2,2,Instructor
+2,3,Teaching Assistant
+2,4,Instructor
+2,5,Teaching Assistant
+2,6,Teaching Assistant
+2,7,Teaching Assistant
+2,8,Instructor
+2,9,Teaching Assistant
+2,10,Teaching Assistant
+2,11,Teaching Assistant
+2,12,Instructor
+2,13,Teaching Assistant
+2,14,Instructor
+2,15,Instructor
+2,16,Teaching Assistant
+2,17,Instructor
+2,18,Instructor
+2,19,Teaching Assistant
+2,20,Instructor
+2,21,Teaching Assistant
+2,22,Instructor
+2,23,Instructor
+2,24,Teaching Assistant
+2,25,Teaching Assistant
+2,26,Teaching Assistant
+2,27,Instructor
+2,28,Teaching Assistant
+2,29,Teaching Assistant
+2,30,Teaching Assistant
+2,31,Teaching Assistant
+2,32,Teaching Assistant
+2,33,Teaching Assistant
+2,34,Teaching Assistant
+2,35,Instructor
+2,36,Teaching Assistant
+2,37,Instructor
+2,38,Instructor
+2,39,Teaching Assistant
+2,40,Instructor
+2,41,Instructor
+2,42,Instructor
+2,43,Instructor
+2,44,Instructor
+2,45,Instructor
+2,46,Instructor
+2,47,Instructor
+2,48,Instructor
+2,49,Instructor
+2,50,Teaching Assistant
+3,1,Instructor
+3,2,Instructor
+3,3,Teaching Assistant
+3,4,Teaching Assistant
+3,5,Teaching Assistant
+3,6,Instructor
+3,7,Instructor
+3,8,Instructor
+3,9,Teaching Assistant
+3,10,Instructor
+3,11,Instructor
+3,12,Teaching Assistant
+3,13,Teaching Assistant
+3,14,Teaching Assistant
+3,15,Instructor
+3,16,Instructor
+3,17,Instructor
+3,18,Instructor
+3,19,Teaching Assistant
+3,20,Instructor
+3,21,Instructor
+3,22,Teaching Assistant
+3,23,Teaching Assistant
+3,24,Teaching Assistant
+3,25,Instructor
+3,26,Teaching Assistant
+3,27,Instructor
+3,28,Teaching Assistant
+3,29,Teaching Assistant
+3,30,Instructor
+3,31,Teaching Assistant
+3,32,Teaching Assistant
+3,33,Teaching Assistant
+3,34,Instructor
+3,35,Teaching Assistant
+3,36,Instructor
+3,37,Teaching Assistant
+3,38,Teaching Assistant
+3,39,Teaching Assistant
+3,40,Teaching Assistant
+3,41,Teaching Assistant
+3,42,Teaching Assistant
+3,43,Instructor
+3,44,Instructor
+3,45,Teaching Assistant
+3,46,Teaching Assistant
+3,47,Instructor
+3,48,Teaching Assistant
+3,49,Teaching Assistant
+3,50,Teaching Assistant
+4,1,Instructor
+4,2,Teaching Assistant
+4,3,Teaching Assistant
+4,4,Instructor
+4,5,Teaching Assistant
+4,6,Instructor
+4,7,Teaching Assistant
+4,8,Teaching Assistant
+4,9,Teaching Assistant
+4,10,Teaching Assistant
+4,11,Teaching Assistant
+4,12,Instructor
+4,13,Instructor
+4,14,Instructor
+4,15,Instructor
+4,16,Teaching Assistant
+4,17,Teaching Assistant
+4,18,Instructor
+4,19,Teaching Assistant
+4,20,Teaching Assistant
+4,21,Teaching Assistant
+4,22,Instructor
+4,23,Instructor
+4,24,Teaching Assistant
+4,25,Instructor
+4,26,Teaching Assistant
+4,27,Instructor
+4,28,Teaching Assistant
+4,29,Teaching Assistant
+4,30,Teaching Assistant
+4,31,Teaching Assistant
+4,32,Teaching Assistant
+4,33,Teaching Assistant
+4,34,Teaching Assistant
+4,35,Teaching Assistant
+4,36,Teaching Assistant
+4,37,Teaching Assistant
+4,38,Teaching Assistant
+4,39,Instructor
+4,40,Instructor
+4,41,Instructor
+4,42,Teaching Assistant
+4,43,Instructor
+4,44,Instructor
+4,45,Instructor
+4,46,Instructor
+4,47,Teaching Assistant
+4,48,Teaching Assistant
+4,49,Teaching Assistant
+4,50,Instructor
+7,1,Instructor
+7,2,Teaching Assistant
+7,3,Instructor
+7,4,Teaching Assistant
+7,5,Instructor
+7,6,Teaching Assistant
+7,7,Instructor
+7,8,Instructor
+7,9,Teaching Assistant
+7,10,Instructor
+7,11,Instructor
+7,12,Teaching Assistant
+7,13,Instructor
+7,14,Teaching Assistant
+7,15,Instructor
+7,16,Instructor
+7,17,Teaching Assistant
+7,18,Teaching Assistant
+7,19,Teaching Assistant
+7,20,Teaching Assistant
+7,21,Teaching Assistant
+7,22,Instructor
+7,23,Instructor
+7,24,Teaching Assistant
+7,25,Teaching Assistant
+7,26,Instructor
+7,27,Instructor
+7,28,Teaching Assistant
+7,29,Teaching Assistant
+7,30,Instructor
+7,31,Instructor
+7,32,Instructor
+7,33,Instructor
+7,34,Teaching Assistant
+7,35,Instructor
+7,36,Instructor
+7,37,Instructor
+7,38,Teaching Assistant
+7,39,Instructor
+7,40,Teaching Assistant
+7,41,Teaching Assistant
+7,42,Teaching Assistant
+7,43,Teaching Assistant
+7,44,Teaching Assistant
+7,45,Teaching Assistant
+7,46,Instructor
+7,47,Instructor
+7,48,Instructor
+7,49,Instructor
+7,50,Teaching Assistant
+8,1,Instructor
+8,2,Instructor
+8,3,Instructor
+8,4,Instructor
+8,5,Instructor
+8,6,Instructor
+8,7,Instructor
+8,8,Teaching Assistant
+8,9,Teaching Assistant
+8,10,Teaching Assistant
+8,11,Teaching Assistant
+8,12,Instructor
+8,13,Instructor
+8,14,Teaching Assistant
+8,15,Teaching Assistant
+8,16,Teaching Assistant
+8,17,Instructor
+8,18,Instructor
+8,19,Teaching Assistant
+8,20,Instructor
+8,21,Teaching Assistant
+8,22,Instructor
+8,23,Instructor
+8,24,Instructor
+8,25,Teaching Assistant
+8,26,Instructor
+8,27,Instructor
+8,28,Instructor
+8,29,Instructor
+8,30,Teaching Assistant
+8,31,Teaching Assistant
+8,32,Teaching Assistant
+8,33,Instructor
+8,34,Teaching Assistant
+8,35,Teaching Assistant
+8,36,Teaching Assistant
+8,37,Teaching Assistant
+8,38,Teaching Assistant
+8,39,Teaching Assistant
+8,40,Instructor
+8,41,Instructor
+8,42,Teaching Assistant
+8,43,Teaching Assistant
+8,44,Teaching Assistant
+8,45,Instructor
+8,46,Instructor
+8,47,Instructor
+8,48,Instructor
+8,49,Teaching Assistant
+8,50,Instructor
+9,1,Instructor
+9,2,Teaching Assistant
+9,3,Teaching Assistant
+9,4,Teaching Assistant
+9,5,Instructor
+9,6,Teaching Assistant
+9,7,Teaching Assistant
+9,8,Instructor
+9,9,Teaching Assistant
+9,10,Teaching Assistant
+9,11,Teaching Assistant
+9,12,Teaching Assistant
+9,13,Teaching Assistant
+9,14,Instructor
+9,15,Instructor
+9,16,Teaching Assistant
+9,17,Teaching Assistant
+9,18,Teaching Assistant
+9,19,Teaching Assistant
+9,20,Teaching Assistant
+9,21,Instructor
+9,22,Teaching Assistant
+9,23,Instructor
+9,24,Teaching Assistant
+9,25,Teaching Assistant
+9,26,Teaching Assistant
+9,27,Instructor
+9,28,Teaching Assistant
+9,29,Instructor
+9,30,Teaching Assistant
+9,31,Teaching Assistant
+9,32,Instructor
+9,33,Instructor
+9,34,Teaching Assistant
+9,35,Teaching Assistant
+9,36,Teaching Assistant
+9,37,Instructor
+9,38,Instructor
+9,39,Teaching Assistant
+9,40,Instructor
+9,41,Teaching Assistant
+9,42,Teaching Assistant
+9,43,Teaching Assistant
+9,44,Instructor
+9,45,Instructor
+9,46,Instructor
+9,47,Instructor
+9,48,Teaching Assistant
+9,49,Instructor
+9,50,Teaching Assistant
+12,1,Instructor
+12,2,Instructor
+12,3,Instructor
+12,4,Teaching Assistant
+12,5,Instructor
+12,6,Instructor
+12,7,Teaching Assistant
+12,8,Teaching Assistant
+12,9,Teaching Assistant
+12,10,Teaching Assistant
+12,11,Teaching Assistant
+12,12,Teaching Assistant
+12,13,Instructor
+12,14,Teaching Assistant
+12,15,Instructor
+12,16,Teaching Assistant
+12,17,Instructor
+12,18,Instructor
+12,19,Instructor
+12,20,Teaching Assistant
+12,21,Teaching Assistant
+12,22,Teaching Assistant
+12,23,Teaching Assistant
+12,24,Instructor
+12,25,Teaching Assistant
+12,26,Teaching Assistant
+12,27,Teaching Assistant
+12,28,Instructor
+12,29,Teaching Assistant
+12,30,Teaching Assistant
+12,31,Teaching Assistant
+12,32,Teaching Assistant
+12,33,Teaching Assistant
+12,34,Teaching Assistant
+12,35,Teaching Assistant
+12,36,Instructor
+12,37,Instructor
+12,38,Teaching Assistant
+12,39,Instructor
+12,40,Teaching Assistant
+12,41,Instructor
+12,42,Teaching Assistant
+12,43,Teaching Assistant
+12,44,Teaching Assistant
+12,45,Teaching Assistant
+12,46,Instructor
+12,47,Teaching Assistant
+12,48,Instructor
+12,49,Instructor
+12,50,Teaching Assistant
+14,1,Instructor
+14,2,Teaching Assistant
+14,3,Instructor
+14,4,Teaching Assistant
+14,5,Instructor
+14,6,Instructor
+14,7,Teaching Assistant
+14,8,Instructor
+14,9,Instructor
+14,10,Teaching Assistant
+14,11,Teaching Assistant
+14,12,Teaching Assistant
+14,13,Teaching Assistant
+14,14,Instructor
+14,15,Teaching Assistant
+14,16,Teaching Assistant
+14,17,Teaching Assistant
+14,18,Teaching Assistant
+14,19,Instructor
+14,20,Instructor
+14,21,Instructor
+14,22,Teaching Assistant
+14,23,Instructor
+14,24,Instructor
+14,25,Teaching Assistant
+14,26,Instructor
+14,27,Instructor
+14,28,Teaching Assistant
+14,29,Instructor
+14,30,Teaching Assistant
+14,31,Instructor
+14,32,Instructor
+14,33,Teaching Assistant
+14,34,Instructor
+14,35,Teaching Assistant
+14,36,Teaching Assistant
+14,37,Teaching Assistant
+14,38,Teaching Assistant
+14,39,Instructor
+14,40,Instructor
+14,41,Teaching Assistant
+14,42,Instructor
+14,43,Instructor
+14,44,Instructor
+14,45,Instructor
+14,46,Teaching Assistant
+14,47,Instructor
+14,48,Teaching Assistant
+14,49,Instructor
+14,50,Instructor
+17,1,Teaching Assistant
+17,2,Teaching Assistant
+17,3,Teaching Assistant
+17,4,Teaching Assistant
+17,5,Instructor
+17,6,Teaching Assistant
+17,7,Teaching Assistant
+17,8,Instructor
+17,9,Instructor
+17,10,Teaching Assistant
+17,11,Teaching Assistant
+17,12,Teaching Assistant
+17,13,Teaching Assistant
+17,14,Teaching Assistant
+17,15,Teaching Assistant
+17,16,Teaching Assistant
+17,17,Instructor
+17,18,Teaching Assistant
+17,19,Teaching Assistant
+17,20,Instructor
+17,21,Instructor
+17,22,Teaching Assistant
+17,23,Teaching Assistant
+17,24,Teaching Assistant
+17,25,Teaching Assistant
+17,26,Instructor
+17,27,Teaching Assistant
+17,28,Teaching Assistant
+17,29,Instructor
+17,30,Instructor
+17,31,Teaching Assistant
+17,32,Teaching Assistant
+17,33,Instructor
+17,34,Teaching Assistant
+17,35,Instructor
+17,36,Instructor
+17,37,Teaching Assistant
+17,38,Instructor
+17,39,Instructor
+17,40,Instructor
+17,41,Teaching Assistant
+17,42,Teaching Assistant
+17,43,Instructor
+17,44,Teaching Assistant
+17,45,Instructor
+17,46,Instructor
+17,47,Teaching Assistant
+17,48,Teaching Assistant
+17,49,Teaching Assistant
+17,50,Instructor
+19,1,Instructor
+19,2,Instructor
+19,3,Teaching Assistant
+19,4,Teaching Assistant
+19,5,Instructor
+19,6,Teaching Assistant
+19,7,Teaching Assistant
+19,8,Teaching Assistant
+19,9,Teaching Assistant
+19,10,Instructor
+19,11,Teaching Assistant
+19,12,Instructor
+19,13,Instructor
+19,14,Instructor
+19,15,Teaching Assistant
+19,16,Teaching Assistant
+19,17,Instructor
+19,18,Teaching Assistant
+19,19,Instructor
+19,20,Teaching Assistant
+19,21,Instructor
+19,22,Teaching Assistant
+19,23,Teaching Assistant
+19,24,Teaching Assistant
+19,25,Teaching Assistant
+19,26,Teaching Assistant
+19,27,Instructor
+19,28,Instructor
+19,29,Teaching Assistant
+19,30,Instructor
+19,31,Teaching Assistant
+19,32,Instructor
+19,33,Instructor
+19,34,Teaching Assistant
+19,35,Teaching Assistant
+19,36,Teaching Assistant
+19,37,Instructor
+19,38,Instructor
+19,39,Instructor
+19,40,Instructor
+19,41,Teaching Assistant
+19,42,Teaching Assistant
+19,43,Instructor
+19,44,Instructor
+19,45,Instructor
+19,46,Instructor
+19,47,Teaching Assistant
+19,48,Teaching Assistant
+19,49,Teaching Assistant
+19,50,Teaching Assistant
+20,1,Instructor
+20,2,Teaching Assistant
+20,3,Instructor
+20,4,Teaching Assistant
+20,5,Teaching Assistant
+20,6,Teaching Assistant
+20,7,Instructor
+20,8,Teaching Assistant
+20,9,Instructor
+20,10,Teaching Assistant
+20,11,Teaching Assistant
+20,12,Instructor
+20,13,Teaching Assistant
+20,14,Instructor
+20,15,Teaching Assistant
+20,16,Teaching Assistant
+20,17,Instructor
+20,18,Teaching Assistant
+20,19,Teaching Assistant
+20,20,Instructor
+20,21,Instructor
+20,22,Teaching Assistant
+20,23,Instructor
+20,24,Instructor
+20,25,Instructor
+20,26,Instructor
+20,27,Teaching Assistant
+20,28,Instructor
+20,29,Instructor
+20,30,Instructor
+20,31,Instructor
+20,32,Instructor
+20,33,Instructor
+20,34,Instructor
+20,35,Teaching Assistant
+20,36,Instructor
+20,37,Instructor
+20,38,Teaching Assistant
+20,39,Instructor
+20,40,Instructor
+20,41,Teaching Assistant
+20,42,Instructor
+20,43,Instructor
+20,44,Instructor
+20,45,Instructor
+20,46,Instructor
+20,47,Teaching Assistant
+20,48,Instructor
+20,49,Teaching Assistant
+20,50,Instructor
+22,1,Instructor
+22,2,Teaching Assistant
+22,3,Instructor
+22,4,Instructor
+22,5,Teaching Assistant
+22,6,Instructor
+22,7,Instructor
+22,8,Teaching Assistant
+22,9,Teaching Assistant
+22,10,Teaching Assistant
+22,11,Instructor
+22,12,Teaching Assistant
+22,13,Instructor
+22,14,Instructor
+22,15,Teaching Assistant
+22,16,Teaching Assistant
+22,17,Instructor
+22,18,Instructor
+22,19,Teaching Assistant
+22,20,Teaching Assistant
+22,21,Teaching Assistant
+22,22,Instructor
+22,23,Teaching Assistant
+22,24,Teaching Assistant
+22,25,Instructor
+22,26,Instructor
+22,27,Teaching Assistant
+22,28,Instructor
+22,29,Instructor
+22,30,Instructor
+22,31,Teaching Assistant
+22,32,Teaching Assistant
+22,33,Teaching Assistant
+22,34,Teaching Assistant
+22,35,Teaching Assistant
+22,36,Teaching Assistant
+22,37,Instructor
+22,38,Instructor
+22,39,Instructor
+22,40,Teaching Assistant
+22,41,Teaching Assistant
+22,42,Instructor
+22,43,Teaching Assistant
+22,44,Teaching Assistant
+22,45,Teaching Assistant
+22,46,Teaching Assistant
+22,47,Teaching Assistant
+22,48,Instructor
+22,49,Teaching Assistant
+22,50,Teaching Assistant
+29,1,Teaching Assistant
+29,2,Teaching Assistant
+29,3,Teaching Assistant
+29,4,Instructor
+29,5,Teaching Assistant
+29,6,Instructor
+29,7,Instructor
+29,8,Instructor
+29,9,Instructor
+29,10,Teaching Assistant
+29,11,Instructor
+29,12,Teaching Assistant
+29,13,Instructor
+29,14,Instructor
+29,15,Teaching Assistant
+29,16,Instructor
+29,17,Teaching Assistant
+29,18,Teaching Assistant
+29,19,Teaching Assistant
+29,20,Instructor
+29,21,Teaching Assistant
+29,22,Teaching Assistant
+29,23,Teaching Assistant
+29,24,Instructor
+29,25,Instructor
+29,26,Instructor
+29,27,Teaching Assistant
+29,28,Instructor
+29,29,Instructor
+29,30,Teaching Assistant
+29,31,Teaching Assistant
+29,32,Instructor
+29,33,Teaching Assistant
+29,34,Instructor
+29,35,Teaching Assistant
+29,36,Instructor
+29,37,Teaching Assistant
+29,38,Instructor
+29,39,Instructor
+29,40,Teaching Assistant
+29,41,Teaching Assistant
+29,42,Teaching Assistant
+29,43,Teaching Assistant
+29,44,Instructor
+29,45,Instructor
+29,46,Instructor
+29,47,Teaching Assistant
+29,48,Instructor
+29,49,Instructor
+29,50,Instructor
+31,1,Instructor
+31,2,Instructor
+31,3,Teaching Assistant
+31,4,Teaching Assistant
+31,5,Teaching Assistant
+31,6,Teaching Assistant
+31,7,Instructor
+31,8,Teaching Assistant
+31,9,Teaching Assistant
+31,10,Teaching Assistant
+31,11,Instructor
+31,12,Instructor
+31,13,Instructor
+31,14,Instructor
+31,15,Instructor
+31,16,Instructor
+31,17,Teaching Assistant
+31,18,Teaching Assistant
+31,19,Teaching Assistant
+31,20,Teaching Assistant
+31,21,Teaching Assistant
+31,22,Teaching Assistant
+31,23,Teaching Assistant
+31,24,Instructor
+31,25,Instructor
+31,26,Teaching Assistant
+31,27,Teaching Assistant
+31,28,Instructor
+31,29,Teaching Assistant
+31,30,Teaching Assistant
+31,31,Teaching Assistant
+31,32,Instructor
+31,33,Instructor
+31,34,Teaching Assistant
+31,35,Instructor
+31,36,Instructor
+31,37,Instructor
+31,38,Teaching Assistant
+31,39,Instructor
+31,40,Instructor
+31,41,Teaching Assistant
+31,42,Teaching Assistant
+31,43,Teaching Assistant
+31,44,Instructor
+31,45,Instructor
+31,46,Teaching Assistant
+31,47,Teaching Assistant
+31,48,Instructor
+31,49,Instructor
+31,50,Teaching Assistant
+34,1,Instructor
+34,2,Teaching Assistant
+34,3,Instructor
+34,4,Teaching Assistant
+34,5,Instructor
+34,6,Teaching Assistant
+34,7,Instructor
+34,8,Teaching Assistant
+34,9,Instructor
+34,10,Teaching Assistant
+34,11,Teaching Assistant
+34,12,Teaching Assistant
+34,13,Teaching Assistant
+34,14,Teaching Assistant
+34,15,Instructor
+34,16,Teaching Assistant
+34,17,Instructor
+34,18,Teaching Assistant
+34,19,Instructor
+34,20,Teaching Assistant
+34,21,Teaching Assistant
+34,22,Instructor
+34,23,Teaching Assistant
+34,24,Instructor
+34,25,Instructor
+34,26,Teaching Assistant
+34,27,Teaching Assistant
+34,28,Instructor
+34,29,Teaching Assistant
+34,30,Teaching Assistant
+34,31,Teaching Assistant
+34,32,Instructor
+34,33,Teaching Assistant
+34,34,Instructor
+34,35,Instructor
+34,36,Instructor
+34,37,Instructor
+34,38,Teaching Assistant
+34,39,Teaching Assistant
+34,40,Instructor
+34,41,Instructor
+34,42,Instructor
+34,43,Instructor
+34,44,Teaching Assistant
+34,45,Instructor
+34,46,Instructor
+34,47,Instructor
+34,48,Instructor
+34,49,Instructor
+34,50,Teaching Assistant
+40,1,Teaching Assistant
+40,2,Teaching Assistant
+40,3,Teaching Assistant
+40,4,Teaching Assistant
+40,5,Instructor
+40,6,Teaching Assistant
+40,7,Instructor
+40,8,Teaching Assistant
+40,9,Teaching Assistant
+40,10,Teaching Assistant
+40,11,Teaching Assistant
+40,12,Instructor
+40,13,Teaching Assistant
+40,14,Instructor
+40,15,Teaching Assistant
+40,16,Teaching Assistant
+40,17,Teaching Assistant
+40,18,Instructor
+40,19,Instructor
+40,20,Teaching Assistant
+40,21,Teaching Assistant
+40,22,Instructor
+40,23,Instructor
+40,24,Teaching Assistant
+40,25,Teaching Assistant
+40,26,Instructor
+40,27,Teaching Assistant
+40,28,Instructor
+40,29,Teaching Assistant
+40,30,Teaching Assistant
+40,31,Instructor
+40,32,Instructor
+40,33,Teaching Assistant
+40,34,Instructor
+40,35,Teaching Assistant
+40,36,Instructor
+40,37,Instructor
+40,38,Instructor
+40,39,Instructor
+40,40,Teaching Assistant
+40,41,Teaching Assistant
+40,42,Instructor
+40,43,Teaching Assistant
+40,44,Teaching Assistant
+40,45,Teaching Assistant
+40,46,Teaching Assistant
+40,47,Teaching Assistant
+40,48,Teaching Assistant
+40,49,Instructor
+40,50,Teaching Assistant
+44,1,Instructor
+44,2,Teaching Assistant
+44,3,Instructor
+44,4,Teaching Assistant
+44,5,Teaching Assistant
+44,6,Teaching Assistant
+44,7,Instructor
+44,8,Teaching Assistant
+44,9,Instructor
+44,10,Instructor
+44,11,Teaching Assistant
+44,12,Teaching Assistant
+44,13,Teaching Assistant
+44,14,Instructor
+44,15,Instructor
+44,16,Teaching Assistant
+44,17,Teaching Assistant
+44,18,Teaching Assistant
+44,19,Instructor
+44,20,Instructor
+44,21,Teaching Assistant
+44,22,Teaching Assistant
+44,23,Instructor
+44,24,Teaching Assistant
+44,25,Teaching Assistant
+44,26,Instructor
+44,27,Instructor
+44,28,Teaching Assistant
+44,29,Teaching Assistant
+44,30,Instructor
+44,31,Instructor
+44,32,Instructor
+44,33,Instructor
+44,34,Instructor
+44,35,Teaching Assistant
+44,36,Instructor
+44,37,Instructor
+44,38,Teaching Assistant
+44,39,Instructor
+44,40,Teaching Assistant
+44,41,Instructor
+44,42,Instructor
+44,43,Instructor
+44,44,Instructor
+44,45,Teaching Assistant
+44,46,Instructor
+44,47,Teaching Assistant
+44,48,Teaching Assistant
+44,49,Instructor
+44,50,Teaching Assistant
+45,1,Teaching Assistant
+45,2,Teaching Assistant
+45,3,Instructor
+45,4,Instructor
+45,5,Teaching Assistant
+45,6,Teaching Assistant
+45,7,Instructor
+45,8,Teaching Assistant
+45,9,Teaching Assistant
+45,10,Teaching Assistant
+45,11,Teaching Assistant
+45,12,Teaching Assistant
+45,13,Teaching Assistant
+45,14,Instructor
+45,15,Instructor
+45,16,Instructor
+45,17,Teaching Assistant
+45,18,Instructor
+45,19,Teaching Assistant
+45,20,Teaching Assistant
+45,21,Instructor
+45,22,Instructor
+45,23,Teaching Assistant
+45,24,Instructor
+45,25,Instructor
+45,26,Teaching Assistant
+45,27,Teaching Assistant
+45,28,Instructor
+45,29,Teaching Assistant
+45,30,Instructor
+45,31,Instructor
+45,32,Teaching Assistant
+45,33,Teaching Assistant
+45,34,Instructor
+45,35,Teaching Assistant
+45,36,Instructor
+45,37,Teaching Assistant
+45,38,Teaching Assistant
+45,39,Instructor
+45,40,Teaching Assistant
+45,41,Instructor
+45,42,Teaching Assistant
+45,43,Instructor
+45,44,Instructor
+45,45,Teaching Assistant
+45,46,Instructor
+45,47,Teaching Assistant
+45,48,Instructor
+45,49,Instructor
+45,50,Instructor
+47,1,Teaching Assistant
+47,2,Teaching Assistant
+47,3,Instructor
+47,4,Teaching Assistant
+47,5,Teaching Assistant
+47,6,Instructor
+47,7,Instructor
+47,8,Instructor
+47,9,Teaching Assistant
+47,10,Instructor
+47,11,Instructor
+47,12,Teaching Assistant
+47,13,Instructor
+47,14,Teaching Assistant
+47,15,Instructor
+47,16,Teaching Assistant
+47,17,Instructor
+47,18,Instructor
+47,19,Instructor
+47,20,Teaching Assistant
+47,21,Teaching Assistant
+47,22,Instructor
+47,23,Instructor
+47,24,Teaching Assistant
+47,25,Instructor
+47,26,Instructor
+47,27,Instructor
+47,28,Teaching Assistant
+47,29,Teaching Assistant
+47,30,Instructor
+47,31,Teaching Assistant
+47,32,Instructor
+47,33,Teaching Assistant
+47,34,Instructor
+47,35,Instructor
+47,36,Teaching Assistant
+47,37,Instructor
+47,38,Instructor
+47,39,Teaching Assistant
+47,40,Teaching Assistant
+47,41,Instructor
+47,42,Teaching Assistant
+47,43,Teaching Assistant
+47,44,Teaching Assistant
+47,45,Instructor
+47,46,Teaching Assistant
+47,47,Instructor
+47,48,Teaching Assistant
+47,49,Instructor
+47,50,Instructor
+49,1,Teaching Assistant
+49,2,Instructor
+49,3,Instructor
+49,4,Teaching Assistant
+49,5,Teaching Assistant
+49,6,Instructor
+49,7,Teaching Assistant
+49,8,Teaching Assistant
+49,9,Instructor
+49,10,Instructor
+49,11,Instructor
+49,12,Teaching Assistant
+49,13,Instructor
+49,14,Teaching Assistant
+49,15,Instructor
+49,16,Instructor
+49,17,Instructor
+49,18,Instructor
+49,19,Teaching Assistant
+49,20,Teaching Assistant
+49,21,Teaching Assistant
+49,22,Teaching Assistant
+49,23,Teaching Assistant
+49,24,Instructor
+49,25,Instructor
+49,26,Teaching Assistant
+49,27,Teaching Assistant
+49,28,Instructor
+49,29,Teaching Assistant
+49,30,Teaching Assistant
+49,31,Instructor
+49,32,Teaching Assistant
+49,33,Teaching Assistant
+49,34,Teaching Assistant
+49,35,Teaching Assistant
+49,36,Teaching Assistant
+49,37,Teaching Assistant
+49,38,Instructor
+49,39,Teaching Assistant
+49,40,Teaching Assistant
+49,41,Teaching Assistant
+49,42,Teaching Assistant
+49,43,Instructor
+49,44,Teaching Assistant
+49,45,Instructor
+49,46,Teaching Assistant
+49,47,Instructor
+49,48,Teaching Assistant
+49,49,Teaching Assistant
+49,50,Instructor
+51,1,Instructor
+51,2,Teaching Assistant
+51,3,Teaching Assistant
+51,4,Teaching Assistant
+51,5,Teaching Assistant
+51,6,Teaching Assistant
+51,7,Instructor
+51,8,Teaching Assistant
+51,9,Teaching Assistant
+51,10,Teaching Assistant
+51,11,Instructor
+51,12,Teaching Assistant
+51,13,Teaching Assistant
+51,14,Teaching Assistant
+51,15,Instructor
+51,16,Instructor
+51,17,Teaching Assistant
+51,18,Teaching Assistant
+51,19,Instructor
+51,20,Instructor
+51,21,Instructor
+51,22,Teaching Assistant
+51,23,Instructor
+51,24,Instructor
+51,25,Instructor
+51,26,Instructor
+51,27,Teaching Assistant
+51,28,Teaching Assistant
+51,29,Teaching Assistant
+51,30,Instructor
+51,31,Instructor
+51,32,Teaching Assistant
+51,33,Teaching Assistant
+51,34,Teaching Assistant
+51,35,Teaching Assistant
+51,36,Instructor
+51,37,Instructor
+51,38,Teaching Assistant
+51,39,Teaching Assistant
+51,40,Teaching Assistant
+51,41,Teaching Assistant
+51,42,Instructor
+51,43,Instructor
+51,44,Instructor
+51,45,Instructor
+51,46,Teaching Assistant
+51,47,Teaching Assistant
+51,48,Instructor
+51,49,Teaching Assistant
+51,50,Teaching Assistant
+52,1,Teaching Assistant
+52,2,Instructor
+52,3,Teaching Assistant
+52,4,Teaching Assistant
+52,5,Instructor
+52,6,Instructor
+52,7,Instructor
+52,8,Instructor
+52,9,Teaching Assistant
+52,10,Instructor
+52,11,Teaching Assistant
+52,12,Instructor
+52,13,Teaching Assistant
+52,14,Teaching Assistant
+52,15,Instructor
+52,16,Teaching Assistant
+52,17,Teaching Assistant
+52,18,Instructor
+52,19,Instructor
+52,20,Teaching Assistant
+52,21,Instructor
+52,22,Instructor
+52,23,Instructor
+52,24,Instructor
+52,25,Instructor
+52,26,Teaching Assistant
+52,27,Instructor
+52,28,Teaching Assistant
+52,29,Teaching Assistant
+52,30,Teaching Assistant
+52,31,Instructor
+52,32,Instructor
+52,33,Instructor
+52,34,Teaching Assistant
+52,35,Teaching Assistant
+52,36,Teaching Assistant
+52,37,Teaching Assistant
+52,38,Teaching Assistant
+52,39,Instructor
+52,40,Instructor
+52,41,Teaching Assistant
+52,42,Instructor
+52,43,Teaching Assistant
+52,44,Teaching Assistant
+52,45,Teaching Assistant
+52,46,Instructor
+52,47,Instructor
+52,48,Instructor
+52,49,Teaching Assistant
+52,50,Instructor
+57,1,Instructor
+57,2,Instructor
+57,3,Teaching Assistant
+57,4,Instructor
+57,5,Instructor
+57,6,Teaching Assistant
+57,7,Instructor
+57,8,Teaching Assistant
+57,9,Teaching Assistant
+57,10,Instructor
+57,11,Teaching Assistant
+57,12,Instructor
+57,13,Teaching Assistant
+57,14,Instructor
+57,15,Teaching Assistant
+57,16,Instructor
+57,17,Instructor
+57,18,Instructor
+57,19,Instructor
+57,20,Teaching Assistant
+57,21,Instructor
+57,22,Instructor
+57,23,Instructor
+57,24,Instructor
+57,25,Teaching Assistant
+57,26,Instructor
+57,27,Teaching Assistant
+57,28,Instructor
+57,29,Teaching Assistant
+57,30,Teaching Assistant
+57,31,Teaching Assistant
+57,32,Teaching Assistant
+57,33,Instructor
+57,34,Teaching Assistant
+57,35,Teaching Assistant
+57,36,Teaching Assistant
+57,37,Instructor
+57,38,Instructor
+57,39,Instructor
+57,40,Teaching Assistant
+57,41,Teaching Assistant
+57,42,Teaching Assistant
+57,43,Teaching Assistant
+57,44,Instructor
+57,45,Teaching Assistant
+57,46,Instructor
+57,47,Teaching Assistant
+57,48,Teaching Assistant
+57,49,Teaching Assistant
+57,50,Teaching Assistant
+58,1,Instructor
+58,2,Teaching Assistant
+58,3,Instructor
+58,4,Teaching Assistant
+58,5,Instructor
+58,6,Teaching Assistant
+58,7,Instructor
+58,8,Teaching Assistant
+58,9,Teaching Assistant
+58,10,Instructor
+58,11,Instructor
+58,12,Instructor
+58,13,Instructor
+58,14,Teaching Assistant
+58,15,Teaching Assistant
+58,16,Teaching Assistant
+58,17,Instructor
+58,18,Instructor
+58,19,Teaching Assistant
+58,20,Teaching Assistant
+58,21,Instructor
+58,22,Instructor
+58,23,Teaching Assistant
+58,24,Teaching Assistant
+58,25,Teaching Assistant
+58,26,Teaching Assistant
+58,27,Teaching Assistant
+58,28,Instructor
+58,29,Instructor
+58,30,Teaching Assistant
+58,31,Teaching Assistant
+58,32,Instructor
+58,33,Instructor
+58,34,Teaching Assistant
+58,35,Instructor
+58,36,Instructor
+58,37,Teaching Assistant
+58,38,Teaching Assistant
+58,39,Teaching Assistant
+58,40,Teaching Assistant
+58,41,Instructor
+58,42,Instructor
+58,43,Teaching Assistant
+58,44,Instructor
+58,45,Teaching Assistant
+58,46,Teaching Assistant
+58,47,Teaching Assistant
+58,48,Teaching Assistant
+58,49,Instructor
+58,50,Teaching Assistant
+59,1,Instructor
+59,2,Instructor
+59,3,Teaching Assistant
+59,4,Teaching Assistant
+59,5,Instructor
+59,6,Teaching Assistant
+59,7,Teaching Assistant
+59,8,Teaching Assistant
+59,9,Instructor
+59,10,Instructor
+59,11,Instructor
+59,12,Teaching Assistant
+59,13,Teaching Assistant
+59,14,Teaching Assistant
+59,15,Teaching Assistant
+59,16,Instructor
+59,17,Instructor
+59,18,Teaching Assistant
+59,19,Instructor
+59,20,Instructor
+59,21,Instructor
+59,22,Instructor
+59,23,Teaching Assistant
+59,24,Teaching Assistant
+59,25,Teaching Assistant
+59,26,Instructor
+59,27,Instructor
+59,28,Teaching Assistant
+59,29,Teaching Assistant
+59,30,Instructor
+59,31,Teaching Assistant
+59,32,Teaching Assistant
+59,33,Teaching Assistant
+59,34,Teaching Assistant
+59,35,Teaching Assistant
+59,36,Teaching Assistant
+59,37,Instructor
+59,38,Teaching Assistant
+59,39,Teaching Assistant
+59,40,Instructor
+59,41,Teaching Assistant
+59,42,Teaching Assistant
+59,43,Instructor
+59,44,Teaching Assistant
+59,45,Teaching Assistant
+59,46,Instructor
+59,47,Instructor
+59,48,Teaching Assistant
+59,49,Instructor
+59,50,Teaching Assistant
+70,1,Instructor
+70,2,Instructor
+70,3,Instructor
+70,4,Instructor
+70,5,Instructor
+70,6,Instructor
+70,7,Teaching Assistant
+70,8,Teaching Assistant
+70,9,Teaching Assistant
+70,10,Instructor
+70,11,Teaching Assistant
+70,12,Instructor
+70,13,Teaching Assistant
+70,14,Teaching Assistant
+70,15,Instructor
+70,16,Instructor
+70,17,Instructor
+70,18,Teaching Assistant
+70,19,Teaching Assistant
+70,20,Teaching Assistant
+70,21,Teaching Assistant
+70,22,Instructor
+70,23,Teaching Assistant
+70,24,Teaching Assistant
+70,25,Teaching Assistant
+70,26,Teaching Assistant
+70,27,Teaching Assistant
+70,28,Instructor
+70,29,Instructor
+70,30,Teaching Assistant
+70,31,Teaching Assistant
+70,32,Instructor
+70,33,Teaching Assistant
+70,34,Teaching Assistant
+70,35,Instructor
+70,36,Teaching Assistant
+70,37,Teaching Assistant
+70,38,Teaching Assistant
+70,39,Teaching Assistant
+70,40,Teaching Assistant
+70,41,Teaching Assistant
+70,42,Instructor
+70,43,Teaching Assistant
+70,44,Teaching Assistant
+70,45,Teaching Assistant
+70,46,Instructor
+70,47,Teaching Assistant
+70,48,Instructor
+70,49,Teaching Assistant
+70,50,Instructor
+78,1,Teaching Assistant
+78,2,Teaching Assistant
+78,3,Teaching Assistant
+78,4,Teaching Assistant
+78,5,Instructor
+78,6,Instructor
+78,7,Teaching Assistant
+78,8,Teaching Assistant
+78,9,Instructor
+78,10,Instructor
+78,11,Instructor
+78,12,Instructor
+78,13,Instructor
+78,14,Instructor
+78,15,Instructor
+78,16,Instructor
+78,17,Instructor
+78,18,Teaching Assistant
+78,19,Teaching Assistant
+78,20,Teaching Assistant
+78,21,Instructor
+78,22,Instructor
+78,23,Instructor
+78,24,Instructor
+78,25,Teaching Assistant
+78,26,Teaching Assistant
+78,27,Teaching Assistant
+78,28,Instructor
+78,29,Teaching Assistant
+78,30,Teaching Assistant
+78,31,Teaching Assistant
+78,32,Instructor
+78,33,Instructor
+78,34,Instructor
+78,35,Instructor
+78,36,Instructor
+78,37,Teaching Assistant
+78,38,Instructor
+78,39,Instructor
+78,40,Teaching Assistant
+78,41,Teaching Assistant
+78,42,Instructor
+78,43,Teaching Assistant
+78,44,Instructor
+78,45,Instructor
+78,46,Teaching Assistant
+78,47,Instructor
+78,48,Teaching Assistant
+78,49,Teaching Assistant
+78,50,Teaching Assistant
+79,1,Teaching Assistant
+79,2,Instructor
+79,3,Teaching Assistant
+79,4,Teaching Assistant
+79,5,Instructor
+79,6,Instructor
+79,7,Teaching Assistant
+79,8,Instructor
+79,9,Teaching Assistant
+79,10,Teaching Assistant
+79,11,Instructor
+79,12,Instructor
+79,13,Teaching Assistant
+79,14,Teaching Assistant
+79,15,Instructor
+79,16,Instructor
+79,17,Teaching Assistant
+79,18,Teaching Assistant
+79,19,Teaching Assistant
+79,20,Instructor
+79,21,Teaching Assistant
+79,22,Instructor
+79,23,Instructor
+79,24,Instructor
+79,25,Teaching Assistant
+79,26,Teaching Assistant
+79,27,Instructor
+79,28,Instructor
+79,29,Teaching Assistant
+79,30,Teaching Assistant
+79,31,Instructor
+79,32,Teaching Assistant
+79,33,Teaching Assistant
+79,34,Teaching Assistant
+79,35,Teaching Assistant
+79,36,Instructor
+79,37,Teaching Assistant
+79,38,Teaching Assistant
+79,39,Instructor
+79,40,Instructor
+79,41,Instructor
+79,42,Teaching Assistant
+79,43,Teaching Assistant
+79,44,Instructor
+79,45,Teaching Assistant
+79,46,Teaching Assistant
+79,47,Instructor
+79,48,Teaching Assistant
+79,49,Teaching Assistant
+79,50,Instructor
+82,1,Instructor
+82,2,Instructor
+82,3,Teaching Assistant
+82,4,Instructor
+82,5,Teaching Assistant
+82,6,Teaching Assistant
+82,7,Teaching Assistant
+82,8,Teaching Assistant
+82,9,Instructor
+82,10,Instructor
+82,11,Instructor
+82,12,Teaching Assistant
+82,13,Teaching Assistant
+82,14,Instructor
+82,15,Instructor
+82,16,Instructor
+82,17,Instructor
+82,18,Instructor
+82,19,Instructor
+82,20,Teaching Assistant
+82,21,Teaching Assistant
+82,22,Instructor
+82,23,Instructor
+82,24,Teaching Assistant
+82,25,Instructor
+82,26,Teaching Assistant
+82,27,Instructor
+82,28,Teaching Assistant
+82,29,Instructor
+82,30,Teaching Assistant
+82,31,Teaching Assistant
+82,32,Instructor
+82,33,Teaching Assistant
+82,34,Teaching Assistant
+82,35,Instructor
+82,36,Teaching Assistant
+82,37,Teaching Assistant
+82,38,Instructor
+82,39,Instructor
+82,40,Instructor
+82,41,Instructor
+82,42,Teaching Assistant
+82,43,Teaching Assistant
+82,44,Instructor
+82,45,Instructor
+82,46,Instructor
+82,47,Teaching Assistant
+82,48,Instructor
+82,49,Teaching Assistant
+82,50,Teaching Assistant
+84,1,Instructor
+84,2,Instructor
+84,3,Teaching Assistant
+84,4,Teaching Assistant
+84,5,Teaching Assistant
+84,6,Teaching Assistant
+84,7,Teaching Assistant
+84,8,Teaching Assistant
+84,9,Instructor
+84,10,Instructor
+84,11,Teaching Assistant
+84,12,Instructor
+84,13,Instructor
+84,14,Teaching Assistant
+84,15,Instructor
+84,16,Instructor
+84,17,Instructor
+84,18,Instructor
+84,19,Teaching Assistant
+84,20,Teaching Assistant
+84,21,Teaching Assistant
+84,22,Teaching Assistant
+84,23,Instructor
+84,24,Instructor
+84,25,Teaching Assistant
+84,26,Teaching Assistant
+84,27,Instructor
+84,28,Teaching Assistant
+84,29,Instructor
+84,30,Instructor
+84,31,Instructor
+84,32,Teaching Assistant
+84,33,Instructor
+84,34,Instructor
+84,35,Instructor
+84,36,Instructor
+84,37,Instructor
+84,38,Instructor
+84,39,Teaching Assistant
+84,40,Instructor
+84,41,Instructor
+84,42,Instructor
+84,43,Teaching Assistant
+84,44,Teaching Assistant
+84,45,Instructor
+84,46,Instructor
+84,47,Instructor
+84,48,Instructor
+84,49,Teaching Assistant
+84,50,Instructor
+86,1,Teaching Assistant
+86,2,Teaching Assistant
+86,3,Instructor
+86,4,Teaching Assistant
+86,5,Instructor
+86,6,Instructor
+86,7,Teaching Assistant
+86,8,Teaching Assistant
+86,9,Teaching Assistant
+86,10,Instructor
+86,11,Instructor
+86,12,Teaching Assistant
+86,13,Teaching Assistant
+86,14,Instructor
+86,15,Teaching Assistant
+86,16,Teaching Assistant
+86,17,Teaching Assistant
+86,18,Teaching Assistant
+86,19,Teaching Assistant
+86,20,Instructor
+86,21,Teaching Assistant
+86,22,Teaching Assistant
+86,23,Instructor
+86,24,Teaching Assistant
+86,25,Instructor
+86,26,Instructor
+86,27,Teaching Assistant
+86,28,Instructor
+86,29,Teaching Assistant
+86,30,Instructor
+86,31,Teaching Assistant
+86,32,Teaching Assistant
+86,33,Instructor
+86,34,Teaching Assistant
+86,35,Instructor
+86,36,Teaching Assistant
+86,37,Instructor
+86,38,Teaching Assistant
+86,39,Instructor
+86,40,Teaching Assistant
+86,41,Teaching Assistant
+86,42,Instructor
+86,43,Instructor
+86,44,Instructor
+86,45,Teaching Assistant
+86,46,Teaching Assistant
+86,47,Instructor
+86,48,Instructor
+86,49,Instructor
+86,50,Instructor
+87,1,Teaching Assistant
+87,2,Instructor
+87,3,Teaching Assistant
+87,4,Teaching Assistant
+87,5,Instructor
+87,6,Instructor
+87,7,Instructor
+87,8,Instructor
+87,9,Teaching Assistant
+87,10,Instructor
+87,11,Instructor
+87,12,Teaching Assistant
+87,13,Instructor
+87,14,Teaching Assistant
+87,15,Teaching Assistant
+87,16,Teaching Assistant
+87,17,Teaching Assistant
+87,18,Teaching Assistant
+87,19,Teaching Assistant
+87,20,Teaching Assistant
+87,21,Teaching Assistant
+87,22,Teaching Assistant
+87,23,Teaching Assistant
+87,24,Instructor
+87,25,Teaching Assistant
+87,26,Teaching Assistant
+87,27,Instructor
+87,28,Teaching Assistant
+87,29,Teaching Assistant
+87,30,Teaching Assistant
+87,31,Instructor
+87,32,Instructor
+87,33,Instructor
+87,34,Instructor
+87,35,Teaching Assistant
+87,36,Teaching Assistant
+87,37,Teaching Assistant
+87,38,Instructor
+87,39,Instructor
+87,40,Teaching Assistant
+87,41,Instructor
+87,42,Teaching Assistant
+87,43,Instructor
+87,44,Teaching Assistant
+87,45,Teaching Assistant
+87,46,Teaching Assistant
+87,47,Teaching Assistant
+87,48,Teaching Assistant
+87,49,Teaching Assistant
+87,50,Instructor
+88,1,Teaching Assistant
+88,2,Instructor
+88,3,Instructor
+88,4,Teaching Assistant
+88,5,Instructor
+88,6,Instructor
+88,7,Instructor
+88,8,Instructor
+88,9,Instructor
+88,10,Instructor
+88,11,Teaching Assistant
+88,12,Instructor
+88,13,Instructor
+88,14,Instructor
+88,15,Instructor
+88,16,Instructor
+88,17,Instructor
+88,18,Teaching Assistant
+88,19,Teaching Assistant
+88,20,Instructor
+88,21,Teaching Assistant
+88,22,Teaching Assistant
+88,23,Instructor
+88,24,Instructor
+88,25,Teaching Assistant
+88,26,Instructor
+88,27,Instructor
+88,28,Teaching Assistant
+88,29,Teaching Assistant
+88,30,Instructor
+88,31,Teaching Assistant
+88,32,Instructor
+88,33,Instructor
+88,34,Instructor
+88,35,Instructor
+88,36,Instructor
+88,37,Instructor
+88,38,Teaching Assistant
+88,39,Teaching Assistant
+88,40,Teaching Assistant
+88,41,Teaching Assistant
+88,42,Instructor
+88,43,Teaching Assistant
+88,44,Teaching Assistant
+88,45,Teaching Assistant
+88,46,Instructor
+88,47,Instructor
+88,48,Teaching Assistant
+88,49,Instructor
+88,50,Instructor
+91,1,Instructor
+91,2,Teaching Assistant
+91,3,Teaching Assistant
+91,4,Teaching Assistant
+91,5,Teaching Assistant
+91,6,Instructor
+91,7,Instructor
+91,8,Instructor
+91,9,Instructor
+91,10,Teaching Assistant
+91,11,Teaching Assistant
+91,12,Teaching Assistant
+91,13,Instructor
+91,14,Instructor
+91,15,Instructor
+91,16,Instructor
+91,17,Teaching Assistant
+91,18,Teaching Assistant
+91,19,Instructor
+91,20,Instructor
+91,21,Teaching Assistant
+91,22,Instructor
+91,23,Instructor
+91,24,Teaching Assistant
+91,25,Instructor
+91,26,Instructor
+91,27,Instructor
+91,28,Teaching Assistant
+91,29,Instructor
+91,30,Teaching Assistant
+91,31,Instructor
+91,32,Instructor
+91,33,Teaching Assistant
+91,34,Teaching Assistant
+91,35,Teaching Assistant
+91,36,Instructor
+91,37,Instructor
+91,38,Teaching Assistant
+91,39,Instructor
+91,40,Instructor
+91,41,Teaching Assistant
+91,42,Instructor
+91,43,Instructor
+91,44,Teaching Assistant
+91,45,Teaching Assistant
+91,46,Teaching Assistant
+91,47,Instructor
+91,48,Teaching Assistant
+91,49,Teaching Assistant
+91,50,Teaching Assistant
+95,1,Instructor
+95,2,Teaching Assistant
+95,3,Teaching Assistant
+95,4,Teaching Assistant
+95,5,Instructor
+95,6,Teaching Assistant
+95,7,Instructor
+95,8,Teaching Assistant
+95,9,Instructor
+95,10,Instructor
+95,11,Instructor
+95,12,Teaching Assistant
+95,13,Instructor
+95,14,Teaching Assistant
+95,15,Instructor
+95,16,Teaching Assistant
+95,17,Teaching Assistant
+95,18,Teaching Assistant
+95,19,Instructor
+95,20,Instructor
+95,21,Instructor
+95,22,Teaching Assistant
+95,23,Teaching Assistant
+95,24,Teaching Assistant
+95,25,Teaching Assistant
+95,26,Instructor
+95,27,Instructor
+95,28,Instructor
+95,29,Instructor
+95,30,Teaching Assistant
+95,31,Teaching Assistant
+95,32,Teaching Assistant
+95,33,Instructor
+95,34,Instructor
+95,35,Instructor
+95,36,Teaching Assistant
+95,37,Instructor
+95,38,Teaching Assistant
+95,39,Teaching Assistant
+95,40,Instructor
+95,41,Teaching Assistant
+95,42,Teaching Assistant
+95,43,Teaching Assistant
+95,44,Instructor
+95,45,Instructor
+95,46,Instructor
+95,47,Teaching Assistant
+95,48,Instructor
+95,49,Instructor
+95,50,Teaching Assistant
+96,1,Teaching Assistant
+96,2,Teaching Assistant
+96,3,Teaching Assistant
+96,4,Instructor
+96,5,Instructor
+96,6,Instructor
+96,7,Teaching Assistant
+96,8,Teaching Assistant
+96,9,Teaching Assistant
+96,10,Teaching Assistant
+96,11,Teaching Assistant
+96,12,Instructor
+96,13,Teaching Assistant
+96,14,Teaching Assistant
+96,15,Instructor
+96,16,Teaching Assistant
+96,17,Instructor
+96,18,Teaching Assistant
+96,19,Instructor
+96,20,Instructor
+96,21,Teaching Assistant
+96,22,Instructor
+96,23,Teaching Assistant
+96,24,Teaching Assistant
+96,25,Teaching Assistant
+96,26,Teaching Assistant
+96,27,Teaching Assistant
+96,28,Teaching Assistant
+96,29,Teaching Assistant
+96,30,Instructor
+96,31,Teaching Assistant
+96,32,Teaching Assistant
+96,33,Instructor
+96,34,Teaching Assistant
+96,35,Teaching Assistant
+96,36,Instructor
+96,37,Teaching Assistant
+96,38,Teaching Assistant
+96,39,Teaching Assistant
+96,40,Teaching Assistant
+96,41,Instructor
+96,42,Teaching Assistant
+96,43,Teaching Assistant
+96,44,Teaching Assistant
+96,45,Teaching Assistant
+96,46,Teaching Assistant
+96,47,Instructor
+96,48,Instructor
+96,49,Instructor
+96,50,Instructor
+100,1,Teaching Assistant
+100,2,Instructor
+100,3,Teaching Assistant
+100,4,Teaching Assistant
+100,5,Instructor
+100,6,Teaching Assistant
+100,7,Teaching Assistant
+100,8,Instructor
+100,9,Teaching Assistant
+100,10,Instructor
+100,11,Teaching Assistant
+100,12,Instructor
+100,13,Teaching Assistant
+100,14,Teaching Assistant
+100,15,Instructor
+100,16,Teaching Assistant
+100,17,Teaching Assistant
+100,18,Teaching Assistant
+100,19,Teaching Assistant
+100,20,Instructor
+100,21,Teaching Assistant
+100,22,Instructor
+100,23,Instructor
+100,24,Instructor
+100,25,Teaching Assistant
+100,26,Instructor
+100,27,Instructor
+100,28,Teaching Assistant
+100,29,Teaching Assistant
+100,30,Teaching Assistant
+100,31,Instructor
+100,32,Instructor
+100,33,Instructor
+100,34,Teaching Assistant
+100,35,Instructor
+100,36,Instructor
+100,37,Teaching Assistant
+100,38,Teaching Assistant
+100,39,Teaching Assistant
+100,40,Teaching Assistant
+100,41,Instructor
+100,42,Teaching Assistant
+100,43,Instructor
+100,44,Teaching Assistant
+100,45,Instructor
+100,46,Teaching Assistant
+100,47,Teaching Assistant
+100,48,Instructor
+100,49,Instructor
+100,50,Instructor
