@@ -14,8 +14,7 @@ February 10, 2024 - May 13, 2024
 The project’s objective is creating a database system for an e-learning platform (which doesn’t crash). The online learning platform will facilitate learning for the students and course management for the instructors by utilizing various online tools. The database will serve as the foundation of the platform, ensuring fast and efficient data management.
 
 # How to use our project
-As we used syneticly generalized data, you should first go to data folder and `data_pօpulation.py` and run it, which will create a folder called `data` filled with csv files within the same path. >(If you have your own data please skip this step)
-Then follow the instruction in `README.txt` in `data_population`.
+As we used syndetically generalized data, you should first go to the data folder and `data_pօpulation.py` and run it, creating a folder called data filled with CSV files within the same path. >(If you have your data, please skip this step) Then follow the instructions in `README.txt` in `data_population`.
 
 # Basic Operations
 - User Authentication and Authorization: The DBMS will manage user authentication to secure access to the site and utilize authorization mechanisms to control user privileges based on roles (student, instructor, teaching assistant, administrator, etc.).
